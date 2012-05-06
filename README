@@ -1,0 +1,2 @@
+This is a simple autoit script to create a HTTP server to provide simple file transfer to windows phone 7.
+This script uses the Python Module: SimpleHTTPSever, I've compile the source into a single exe file.
